@@ -1,4 +1,5 @@
 # The fastest feature-rich C++98/C++11 single-header testing framework for unit tests and TDD
+[ ![Download](https://api.bintray.com/packages/mmha/conan/doctest%3Ammha/images/download.svg) ](https://bintray.com/mmha/conan/doctest%3Ammha/_latestVersion)
 
 [Conan.io](https://conan.io) package for [doctest](https://github.com/onqtam/doctest) project
 
